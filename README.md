@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📜 -In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📜 In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 - ⚡ **I love playing cricket and watching cricket	🏏.**
   
